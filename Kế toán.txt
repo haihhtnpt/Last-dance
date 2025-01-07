@@ -1,7 +1,5 @@
 - Các khái niệm về kế toán
 
-Every business entity be it a sole proprietor , company, partnership etc. do numerous of economic transactions everyday. Now since human memory does not have that much capability to remember how much amount is due from a party , how much his business entity owe to a party, how much stock is left with him to fulfill future demand of consumer and many such business related questions. So what he does , is maintain a register recording every transaction ( called journal entry recording) of his business so that he can refer this register for any business decision. Also this register ( journal entries ) is further sorted in the form of ledger accounts so that we can see transactions of similar nature under one head , thus increasing our convenience of reference of business accounts information. This step is called classification Now this process is done continuously and simultaneously with the business operations After some time (called financial period) , every business entity wants to know how much profit it made ( called financial profitability ) and also how much assets he possess and how much amount he owe to the outsiders( called financial position). So a profit and loss account is prepared to determine profitability and a balance sheet is prepared to determine financial position.This step is called summarisation. Now such information prepared for a financial period( usually 1 yr) holds very much importance in making numerous business decisions and financial decisions. This information is relevant not only for the owner but for various outside parties as well such as supplier, debtors, creditors, governement, potential investors, auditors etc. So such information is communicated to the above mentioned parties.This step is called is Communication. In nutshell, Accounting is systematic (since based on priciples called accounting principles) process of recording( journal entries), classifying ( legder accounts making), summarising( balance sheet and profit and loss account), and communicating ( to various stakeholders) financial information.
-VIETNAMESE
 Mọi thực thể kinh doanh, dù là chủ sở hữu duy nhất, công ty, quan hệ đối tác, v.v., đều thực hiện nhiều giao dịch 
 kinh tế hàng ngày. Bây giờ vì trí nhớ của con người không có nhiều khả năng để nhớ số tiền mà một bên phải trả, số tiền
  mà thực thể kinh doanh của họ nợ một bên, số lượng hàng tồn kho còn lại để đáp ứng nhu cầu trong tương lai của người tiêu
@@ -53,7 +51,8 @@ Giải thích: Các thông tin kế toán phải được ghi nhận và báo c�
 Ví dụ: Sử dụng chứng từ, hóa đơn và tài liệu xác thực để ghi nhận các giao dịch tài chính.
 Nguyên tắc đầy đủ (Full Disclosure Principle)
 
-Giải thích: Mọi thông tin quan trọng cần được tiết lộ trong báo cáo tài chính để người sử dụng có thể đưa ra quyết định chính xác. Các sự kiện quan trọng, không được ghi nhận trong báo cáo tài chính, nhưng có thể ảnh hưởng đến quyết định của người sử dụng, cần phải được công bố.
+Giải thích: Mọi thông tin quan trọng cần được tiết lộ trong báo cáo tài chính để người sử dụng có thể đưa ra quyết định chính xác. Các sự kiện quan trọng, không được ghi nhận trong báo cáo tài chính, 
+nhưng có thể ảnh hưởng đến quyết định của người sử dụng, cần phải được công bố.
 Ví dụ: Một công ty có thể đang tham gia vào một vụ kiện pháp lý và cần phải công bố chi tiết vụ kiện này trong báo cáo tài chính nếu nó có thể ảnh hưởng đến tình hình tài chính của công ty.
 Nguyên tắc giá trị hợp lý (Fair Value Principle)
 
@@ -73,7 +72,8 @@ Giải thích: Các giao dịch tài chính cần được báo cáo trong các 
 Ví dụ: Công ty phải lập báo cáo tài chính cho mỗi năm tài chính, bất kể kết quả kinh doanh hoặc giao dịch tài chính có liên quan đến những năm trước đó hay không.
 - Các phương pháp kế toán
 
-Các phương pháp kế toán là những phương thức, kỹ thuật được sử dụng để ghi nhận, xử lý và báo cáo các giao dịch tài chính của công ty. Tùy thuộc vào đặc thù hoạt động và yêu cầu của công ty, các phương pháp kế toán có thể thay đổi, nhưng mục tiêu chung là đảm bảo tính chính xác, minh bạch và tuân thủ các nguyên tắc kế toán.
+Các phương pháp kế toán là những phương thức, kỹ thuật được sử dụng để ghi nhận, xử lý và báo cáo các giao dịch tài chính của công ty. Tùy thuộc vào đặc thù hoạt động và yêu cầu của công ty, các phương
+ pháp kế toán có thể thay đổi, nhưng mục tiêu chung là đảm bảo tính chính xác, minh bạch và tuân thủ các nguyên tắc kế toán.
 
 Dưới đây là một số phương pháp kế toán phổ biến:
 
@@ -118,7 +118,8 @@ Ví dụ: Sử dụng phần mềm kế toán để tự động hóa quá trìn
 
 - Hệ thống pháp lý kế toán việt nam
 
-Hệ thống pháp lý kế toán của Việt Nam là tập hợp các quy định, luật lệ, và tiêu chuẩn nhằm điều chỉnh và hướng dẫn các hoạt động kế toán trong nước, đảm bảo tính chính xác, minh bạch và tuân thủ các nguyên tắc tài chính quốc tế. Hệ thống này giúp xây dựng một môi trường pháp lý rõ ràng và an toàn cho các hoạt động kế toán và tài chính, tạo cơ sở vững chắc cho việc phát triển nền kinh tế và doanh nghiệp.
+Hệ thống pháp lý kế toán của Việt Nam là tập hợp các quy định, luật lệ, và tiêu chuẩn nhằm điều chỉnh và hướng dẫn các hoạt động kế toán trong nước, đảm bảo tính chính xác, minh bạch và tuân thủ các nguyên tắc tài chính quốc tế. 
+Hệ thống này giúp xây dựng một môi trường pháp lý rõ ràng và an toàn cho các hoạt động kế toán và tài chính, tạo cơ sở vững chắc cho việc phát triển nền kinh tế và doanh nghiệp.
 
 Các văn bản pháp lý chính trong hệ thống pháp lý kế toán của Việt Nam:
 1. Luật Kế toán (Sửa đổi, bổ sung năm 2015)
@@ -162,7 +163,8 @@ Bộ Tài chính Việt Nam thường xuyên ban hành các quyết định, th�
 - Tìm hiểu chung về tài khoản kế toán
 + Nguyên tắc hạch toán:
 
-Nguyên tắc hạch toán là các quy định, nguyên lý cơ bản mà các kế toán viên phải tuân theo trong quá trình ghi chép và xử lý các giao dịch tài chính của doanh nghiệp. Mục tiêu của các nguyên tắc này là đảm bảo tính chính xác, minh bạch và hợp lý trong việc lập báo cáo tài chính, đồng thời giúp các bên liên quan có thể dễ dàng hiểu và sử dụng thông tin tài chính. Dưới đây là các nguyên tắc hạch toán cơ bản:
+Nguyên tắc hạch toán là các quy định, nguyên lý cơ bản mà các kế toán viên phải tuân theo trong quá trình ghi chép và xử lý các giao dịch tài chính của doanh nghiệp. Mục tiêu của các nguyên tắc này là đảm bảo tính chính xác, minh bạch và hợp lý trong việc lập báo cáo tài chính, 
+đồng thời giúp các bên liên quan có thể dễ dàng hiểu và sử dụng thông tin tài chính. Dưới đây là các nguyên tắc hạch toán cơ bản:
 
 1. Nguyên tắc kế toán dồn tích (Accrual Principle)
 Giải thích: Nguyên tắc dồn tích yêu cầu các kế toán viên phải ghi nhận các giao dịch khi chúng phát sinh, không phụ thuộc vào thời điểm tiền được thu hay chi.
