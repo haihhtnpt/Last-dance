@@ -203,305 +203,72 @@ Lý do: Giúp các bên liên quan có thể theo dõi và so sánh kết quả 
 
 + Yếu tố cơ bản của báo cáo tài chính:
 
-Báo cáo tài chính là một công cụ quan trọng để phản ánh tình hình tài chính, kết quả hoạt động và các dòng tiền của một doanh nghiệp. Các báo cáo này cung cấp thông tin quan trọng cho các nhà quản lý, nhà đầu tư, các cơ quan quản lý và các bên liên quan khác để đưa ra quyết định kinh tế chính xác. Các yếu tố cơ bản của báo cáo tài chính gồm:
+Dưới đây là định dạng trả lời mà bạn có thể sao chép vào file `.txt`:
+
+```
+Các yếu tố cơ bản của báo cáo tài chính
 
 1. Bảng Cân Đối Kế Toán (Balance Sheet)
-Mục đích: Phản ánh tình hình tài chính của doanh nghiệp tại một thời điểm cụ thể.
-Cấu trúc:
-Tài sản: Chia thành tài sản ngắn hạn và tài sản dài hạn.
-Tài sản ngắn hạn: Bao gồm tiền mặt, các khoản phải thu, hàng tồn kho, v.v.
-Tài sản dài hạn: Bao gồm tài sản cố định (như đất đai, nhà xưởng, máy móc) và tài sản vô hình (như bản quyền, thương hiệu).
-Nợ phải trả: Chia thành nợ ngắn hạn và nợ dài hạn.
-Nợ ngắn hạn: Các khoản nợ phải trả trong vòng 12 tháng, ví dụ như các khoản vay ngắn hạn, phải trả cho nhà cung cấp.
-Nợ dài hạn: Các khoản nợ phải trả sau 12 tháng, ví dụ như các khoản vay dài hạn, trái phiếu.
-Vốn chủ sở hữu (Equity): Phản ánh giá trị tài sản còn lại sau khi trừ đi các khoản nợ. Bao gồm vốn góp, lợi nhuận chưa phân phối, và các khoản mục khác như quỹ dự phòng.
-Công thức:
+   - Mục đích: Phản ánh tình hình tài chính của doanh nghiệp tại một thời điểm cụ thể.
+   - Cấu trúc:
+     - Tài sản: Chia thành tài sản ngắn hạn và tài sản dài hạn.
+       - Tài sản ngắn hạn: Bao gồm tiền mặt, các khoản phải thu, hàng tồn kho, v.v.
+       - Tài sản dài hạn: Bao gồm tài sản cố định (như đất đai, nhà xưởng, máy móc) và tài sản vô hình (như bản quyền, thương hiệu).
+     - Nợ phải trả: Chia thành nợ ngắn hạn và nợ dài hạn.
+       - Nợ ngắn hạn: Các khoản nợ phải trả trong vòng 12 tháng, ví dụ như các khoản vay ngắn hạn, phải trả cho nhà cung cấp.
+       - Nợ dài hạn: Các khoản nợ phải trả sau 12 tháng, ví dụ như các khoản vay dài hạn, trái phiếu.
+     - Vốn chủ sở hữu (Equity): Phản ánh giá trị tài sản còn lại sau khi trừ đi các khoản nợ. Bao gồm vốn góp, lợi nhuận chưa phân phối, và các khoản mục khác như quỹ dự phòng.
 
-𝑇
-𝑎
-ˋ
-𝑖
-𝑠
-ả
-𝑛
-=
-𝑁
-ợ
-𝑝
-ℎ
-ả
-𝑖
-𝑡
-𝑟
-ả
-+
-𝑉
-𝑜
-^
-ˊ
-𝑛
-𝑐
-ℎ
-ủ
-𝑠
-ở
-ℎ
-ữ
-𝑢
-T 
-a
-ˋ
- isản=Nợphảitrả+V 
-o
-^
- 
-ˊ
- nchủsởhữu
+   Công thức:
+   Tài sản = Nợ phải trả + Vốn chủ sở hữu
+
 2. Báo Cáo Kết Quả Hoạt Động Kinh Doanh (Income Statement)
-Mục đích: Phản ánh kết quả hoạt động sản xuất, kinh doanh của doanh nghiệp trong một kỳ báo cáo (thường là một quý hoặc một năm).
-Cấu trúc:
-Doanh thu: Các khoản thu nhập từ hoạt động kinh doanh chính của doanh nghiệp (bán hàng, cung cấp dịch vụ).
-Chi phí: Các khoản chi phí phát sinh trong quá trình sản xuất và kinh doanh, bao gồm chi phí hàng bán, chi phí hoạt động, chi phí bán hàng và quản lý.
-Lợi nhuận:
-Lợi nhuận gộp: Doanh thu trừ đi giá vốn hàng bán (COGS).
-Lợi nhuận từ hoạt động kinh doanh: Lợi nhuận gộp trừ đi các chi phí hoạt động.
-Lợi nhuận trước thuế: Lợi nhuận từ hoạt động kinh doanh cộng (trừ) các khoản thu nhập (chi phí) ngoài hoạt động kinh doanh chính.
-Lợi nhuận sau thuế: Lợi nhuận trước thuế trừ đi thuế thu nhập doanh nghiệp.
-Công thức:
+   - Mục đích: Phản ánh kết quả hoạt động sản xuất, kinh doanh của doanh nghiệp trong một kỳ báo cáo (thường là một quý hoặc một năm).
+   - Cấu trúc:
+     - Doanh thu: Các khoản thu nhập từ hoạt động kinh doanh chính của doanh nghiệp (bán hàng, cung cấp dịch vụ).
+     - Chi phí: Các khoản chi phí phát sinh trong quá trình sản xuất và kinh doanh, bao gồm chi phí hàng bán, chi phí hoạt động, chi phí bán hàng và quản lý.
+     - Lợi nhuận:
+       - Lợi nhuận gộp: Doanh thu trừ đi giá vốn hàng bán (COGS).
+       - Lợi nhuận từ hoạt động kinh doanh: Lợi nhuận gộp trừ đi các chi phí hoạt động.
+       - Lợi nhuận trước thuế: Lợi nhuận từ hoạt động kinh doanh cộng (trừ) các khoản thu nhập (chi phí) ngoài hoạt động kinh doanh chính.
+       - Lợi nhuận sau thuế: Lợi nhuận trước thuế trừ đi thuế thu nhập doanh nghiệp.
 
-𝐿
-ợ
-𝑖
-𝑛
-ℎ
-𝑢
-ậ
-𝑛
-𝑠
-𝑎
-𝑢
-𝑡
-ℎ
-𝑢
-𝑒
-^
-ˊ
-=
-𝐷
-𝑜
-𝑎
-𝑛
-ℎ
-𝑡
-ℎ
-𝑢
-−
-𝐶
-ℎ
-𝑖
-𝑝
-ℎ
-ı
-ˊ
-−
-𝑇
-ℎ
-𝑢
-𝑒
-^
-ˊ
-Lợinhuậnsauthu 
-e
-^
- 
-ˊ
- =Doanhthu−Chiph 
-ı
-ˊ
- −Thu 
-e
-^
- 
-ˊ
- 
+   Công thức:
+   Lợi nhuận sau thuế = Doanh thu - Chi phí - Thuế
+
 3. Báo Cáo Lưu Chuyển Tiền Tệ (Cash Flow Statement)
-Mục đích: Phản ánh các dòng tiền vào và ra khỏi doanh nghiệp trong một kỳ báo cáo, giúp đánh giá khả năng thanh toán của doanh nghiệp.
-Cấu trúc:
-Dòng tiền từ hoạt động kinh doanh: Các khoản tiền thu vào và chi ra liên quan đến các hoạt động kinh doanh chính, như thu từ khách hàng, chi cho nhà cung cấp, trả lương, v.v.
-Dòng tiền từ hoạt động đầu tư: Các khoản chi và thu liên quan đến việc mua sắm tài sản dài hạn, đầu tư vào công ty khác hoặc nhận cổ tức từ các khoản đầu tư.
-Dòng tiền từ hoạt động tài chính: Các khoản vay, phát hành cổ phiếu, trả nợ, chi cổ tức cho cổ đông.
-Công thức:
+   - Mục đích: Phản ánh các dòng tiền vào và ra khỏi doanh nghiệp trong một kỳ báo cáo, giúp đánh giá khả năng thanh toán của doanh nghiệp.
+   - Cấu trúc:
+     - Dòng tiền từ hoạt động kinh doanh: Các khoản tiền thu vào và chi ra liên quan đến các hoạt động kinh doanh chính, như thu từ khách hàng, chi cho nhà cung cấp, trả lương, v.v.
+     - Dòng tiền từ hoạt động đầu tư: Các khoản chi và thu liên quan đến việc mua sắm tài sản dài hạn, đầu tư vào công ty khác hoặc nhận cổ tức từ các khoản đầu tư.
+     - Dòng tiền từ hoạt động tài chính: Các khoản vay, phát hành cổ phiếu, trả nợ, chi cổ tức cho cổ đông.
 
-𝐷
-𝑜
-ˋ
-𝑛
-𝑔
-𝑡
-𝑖
-𝑒
-^
-ˋ
-𝑛
-𝑟
-𝑜
-ˋ
-𝑛
-𝑔
-=
-𝐷
-𝑜
-ˋ
-𝑛
-𝑔
-𝑡
-𝑖
-𝑒
-^
-ˋ
-𝑛
-𝑡
-ừ
-ℎ
-𝑜
-ạ
-𝑡
-độ
-𝑛
-𝑔
-𝑘
-𝑖
-𝑛
-ℎ
-𝑑
-𝑜
-𝑎
-𝑛
-ℎ
-+
-𝐷
-𝑜
-ˋ
-𝑛
-𝑔
-𝑡
-𝑖
-𝑒
-^
-ˋ
-𝑛
-𝑡
-ừ
-ℎ
-𝑜
-ạ
-𝑡
-độ
-𝑛
-𝑔
-đ
-𝑎
-^
-ˋ
-𝑢
-𝑡
-ư
-+
-𝐷
-𝑜
-ˋ
-𝑛
-𝑔
-𝑡
-𝑖
-𝑒
-^
-ˋ
-𝑛
-𝑡
-ừ
-ℎ
-𝑜
-ạ
-𝑡
-độ
-𝑛
-𝑔
-𝑡
-𝑎
-ˋ
-𝑖
-𝑐
-ℎ
-ı
-ˊ
-𝑛
-ℎ
-D 
-o
-ˋ
- ngti 
-e
-^
- 
-ˋ
- nr 
-o
-ˋ
- ng=D 
-o
-ˋ
- ngti 
-e
-^
- 
-ˋ
- ntừhoạtđộngkinhdoanh+D 
-o
-ˋ
- ngti 
-e
-^
- 
-ˋ
- ntừhoạtđộngđ 
-a
-^
- 
-ˋ
- utư+D 
-o
-ˋ
- ngti 
-e
-^
- 
-ˋ
- ntừhoạtđộngt 
-a
-ˋ
- ich 
-ı
-ˊ
- nh
+   Công thức:
+   Dòng tiền ròng = Dòng tiền từ hoạt động kinh doanh + Dòng tiền từ hoạt động đầu tư + Dòng tiền từ hoạt động tài chính
+
 4. Báo Cáo Thay Đổi Vốn Chủ Sở Hữu (Statement of Changes in Equity)
-Mục đích: Phản ánh các thay đổi trong vốn chủ sở hữu của doanh nghiệp trong một kỳ báo cáo, bao gồm lợi nhuận giữ lại, cổ tức chi trả, phát hành cổ phiếu, các khoản chênh lệch tỷ giá, v.v.
-Cấu trúc:
-Vốn góp: Phản ánh các khoản đầu tư của cổ đông vào doanh nghiệp.
-Lợi nhuận giữ lại: Lợi nhuận doanh nghiệp đã tích lũy qua các năm, chưa phân phối cho cổ đông.
-Lợi nhuận hoặc lỗ trong kỳ: Lợi nhuận hoặc lỗ sau thuế từ kết quả hoạt động kinh doanh trong kỳ.
-Cổ tức và các khoản chi khác: Các khoản chi trả cho cổ đông, thay đổi trong vốn cổ phần hoặc quỹ dự phòng.
+   - Mục đích: Phản ánh các thay đổi trong vốn chủ sở hữu của doanh nghiệp trong một kỳ báo cáo, bao gồm lợi nhuận giữ lại, cổ tức chi trả, phát hành cổ phiếu, các khoản chênh lệch tỷ giá, v.v.
+   - Cấu trúc:
+     - Vốn góp: Phản ánh các khoản đầu tư của cổ đông vào doanh nghiệp.
+     - Lợi nhuận giữ lại: Lợi nhuận doanh nghiệp đã tích lũy qua các năm, chưa phân phối cho cổ đông.
+     - Lợi nhuận hoặc lỗ trong kỳ: Lợi nhuận hoặc lỗ sau thuế từ kết quả hoạt động kinh doanh trong kỳ.
+     - Cổ tức và các khoản chi khác: Các khoản chi trả cho cổ đông, thay đổi trong vốn cổ phần hoặc quỹ dự phòng.
+
 5. Chú Giải Báo Cáo Tài Chính (Notes to Financial Statements)
-Mục đích: Cung cấp thông tin chi tiết, giải thích và bổ sung về các khoản mục trong báo cáo tài chính. Đây là phần quan trọng để hiểu rõ hơn về các con số được báo cáo.
-Cấu trúc:
-Giải thích về phương pháp kế toán: Các phương pháp kế toán được sử dụng trong việc lập báo cáo tài chính, như phương pháp khấu hao, phương pháp ghi nhận doanh thu, v.v.
-Thông tin chi tiết về các khoản mục tài sản, nợ, vốn chủ sở hữu: Các khoản mục quan trọng trong báo cáo tài chính sẽ được giải thích chi tiết hơn, chẳng hạn như thông tin về các khoản nợ phải trả, khoản mục không ghi nhận trong báo cáo tài chính (như các khoản bảo lãnh).
-Thông tin bổ sung về các sự kiện quan trọng: Các sự kiện có ảnh hưởng đến tình hình tài chính của doanh nghiệp, chẳng hạn như các vụ kiện, thỏa thuận hợp tác, v.v.
+   - Mục đích: Cung cấp thông tin chi tiết, giải thích và bổ sung về các khoản mục trong báo cáo tài chính. Đây là phần quan trọng để hiểu rõ hơn về các con số được báo cáo.
+   - Cấu trúc:
+     - Giải thích về phương pháp kế toán: Các phương pháp kế toán được sử dụng trong việc lập báo cáo tài chính, như phương pháp khấu hao, phương pháp ghi nhận doanh thu, v.v.
+     - Thông tin chi tiết về các khoản mục tài sản, nợ, vốn chủ sở hữu: Các khoản mục quan trọng trong báo cáo tài chính sẽ được giải thích chi tiết hơn, chẳng hạn như thông tin về các khoản nợ phải trả, khoản mục không ghi nhận trong báo cáo tài chính (như các khoản bảo lãnh).
+     - Thông tin bổ sung về các sự kiện quan trọng: Các sự kiện có ảnh hưởng đến tình hình tài chính của doanh nghiệp, chẳng hạn như các vụ kiện, thỏa thuận hợp tác, v.v.
+
 Tóm tắt lại:
 Các yếu tố cơ bản của báo cáo tài chính bao gồm:
+1. Bảng Cân Đối Kế Toán - Phản ánh tài sản, nợ phải trả và vốn chủ sở hữu.
+2. Báo Cáo Kết Quả Hoạt Động Kinh Doanh - Phản ánh kết quả hoạt động sản xuất, kinh doanh (doanh thu, chi phí, lợi nhuận).
+3. Báo Cáo Lưu Chuyển Tiền Tệ - Phản ánh dòng tiền vào và ra khỏi doanh nghiệp.
+4. Báo Cáo Thay Đổi Vốn Chủ Sở Hữu - Phản ánh các thay đổi trong vốn chủ sở hữu của doanh nghiệp.
+5. Chú Giải Báo Cáo Tài Chính - Cung cấp các thông tin giải thích và bổ sung về các khoản mục trong báo cáo tài chính.
 
-Bảng Cân Đối Kế Toán - Phản ánh tài sản, nợ phải trả và vốn chủ sở hữu.
-Báo Cáo Kết Quả Hoạt Động Kinh Doanh - Phản ánh kết quả hoạt động sản xuất, kinh doanh (doanh thu, chi phí, lợi nhuận).
-Báo Cáo Lưu Chuyển Tiền Tệ - Phản ánh dòng tiền vào và ra khỏi doanh nghiệp.
-Báo Cáo Thay Đổi Vốn Chủ Sở Hữu - Phản ánh các thay đổi trong vốn chủ sở hữu của doanh nghiệp.
-Chú Giải Báo Cáo Tài Chính - Cung cấp các thông tin giải thích và bổ sung về các khoản mục trong báo cáo tài chính.
+Các báo cáo này cùng nhau cung cấp một cái nhìn toàn diện về tình hình tài chính và hiệu quả hoạt động của doanh nghiệp, giúp các nhà quản lý và các bên liên quan đưa ra quyết định chính xác.
+```
+
