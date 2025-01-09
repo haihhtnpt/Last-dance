@@ -1,0 +1,29 @@
+A. Thu ngân sách xã
+1.1 Thu bằng tiền mặt
+ Nợ 111/có 337 
+Tk 337: THu ngân sách xã chưa hạch toán vào ngân sách nhà nước
+1.2 Khi nộp tiền vào kho bạc nhà nước, căn cứ vào phiếu chi và giấy nộp tiền mặt
+vào ngân sách đã được kho bạc xác nhận, ghi:
+Nợ 1121/Có 111
+Nợ 337/Có 714
+b, thu tiền mặt nộp thẳng vào kho bạc nhà nước
+Nợ 1121/có 714
+c, thu tiền mặt được phép sử dụng ngay, sau đó lập bảng kê ghi thu, ghi chi
+- Căn cứ vào biên lai thu và phiếu thu tiền mặt nhập quỹ, ghi:
+Nợ 111/Có 337
+- Khi xuất quỹ tiền mặt chi tại ngân sách xã, căn cứ vào phiếu thu, phiếu chi ghi:
+Nợ 137/ có 111
+137: Chi ngân sách xã chưa hạch toán vào ngân sách nhà nước
+- Định kì, lập bảng kê ghi thu ghi chi NSX( tổng số thu phải bằng tổng số chi) để
+thực hiện ghi thu ghi chi hạch toán vào ngân sách nhà nước, căn cứ vào chứng từ 
+đã được kho bạc xác nhận ghi:
+Nợ 337/có 714
+Nợ 814/có 137
+có 00822: thực chi
+1.2 Thu bằng hiện vật
+- Khi thu được hiện vật nhập kho, căn cứ phiếu nhập kho ghi
+Nợ 152/có 337
+- Khi xuất hiện vật ra sử dụng cho các công trình XDCB, căn cứ phiếu xuất kho ghi
+Nợ 2412/có 152
+Nợ 137/có 441
+nợ tk 005 ( nếu hiện vật là công cụ dụng cụ lâu bền cần theo dõi)

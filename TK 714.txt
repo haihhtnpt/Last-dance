@@ -1,0 +1,15 @@
+Tài khoản 714: Thu ngân sách xã hạch toán vào ngân sách nhà nước
+1. Nguyên tắc kế toán
+Phản ánh toàn bộ số thu ngân sách xã đã hạch toán vào ngân sách nhà nước từ ngày 1/1
+đến ngày 30/12
+
+1.2 Nguồn thu của ngân sách xã 
+- Các khoản thu ngân sách xã hưởng 100%
+- Các khoản thu phân chia theo tỷ lệ giữa các cấp ngân sách( thu điều tiết)
+- Thu bổ sung tử ngân sách cấp trên
+1.3 Tất cả các khoản thu ngân sách xã đều phản ánh vào ngân sách nhà nước tại
+kho bạc theo mục lục NS
+- đối với các khoản thu điều tiết, thu bổ sung từ ngân scáh cấp trên
+khi được nhậnk giấy báo có hoặc chứng từ của kho bạc, căn cứ vào chứng từ của kho bạc
+hạch toán vào tài khoản 112- tiền gửi kho bạc ngân hàng (1121) VÀ tài khoản 714
+( thu ngân sách xã hạch toán vào NSNN)

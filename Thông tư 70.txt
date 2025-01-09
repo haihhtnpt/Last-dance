@@ -1,0 +1,29 @@
+Tài khoản 111: tiền mặt
+- các khoản thu chưa nộp vào kho bạc
+- tiền rút từ kho bạc về để chi
+- các khoản thu hộ huyện tỉnh nhưng hcưa làm thủ tục nộp lên tỉnh
+- các khoản tiền mặt thuộc quỹ ngoài ngân sách
+- chỉ hạch toán tài khoản này số tiền mặt, ngoại tệ thực tế nhập xuất quỹ
+- khi tiến hành nhập, xuất quỹ tiền mặt phải có phiếu thu phiếu chi và có đủ chữ ký , ng
+người duyệt. Nghiêm cấm việc xxuất quỹ khi chưa có phiếu chi và hcưa có vhữ ký của chủ tịch
+xã
+Tài khoản 112: tiền gửi ngân hàng kho bạc
+tài khoản 152: vật liệu
+Tài khoản 152 là tìa khoản hướng dẫn, sử dụng cho những xã có quản lý và hạc toán nhập, xuất vật tư
+qua kho, để phản ánh giá tị hiện có và tình hình biến động các loại 
+vật liệu của xã( bao gồm các vật liệu xây dựng, hiện vật thu ngân sách) được quản lý hạch toán qua kho
+
+- Vật liêu jđược hình thành từ nhiều nguồn:
+- Vật liệu xây dựng và các vạt liệu mua về
+- các khoản thu ngân sách xã bằng hiện vật
+- thu các khoản đóng góp của nhân dân bằng hiện vật
+- các loại vật tư hàng hóa được viện trợ, tài trợ
+
++ bắt buộc phải có phiếu nhập kho xuất kho
++ chỉ hạch toán vào tài khoản 152" vật liệu' gí trị của vật liệu thực tế nhập, xuất qua kho
+không hạch toán vào tìa khoản này những loại vật liệ mua về hoặc sử dụng ngay
+
+- đối với hiện vật thuộc quỹ ngoài ngân sách, khi thu hiện vật nhập kho hạch toán vào tài khoản
+152"vật liệu" và tìa khoản 337" thu ngân sách xã chưa hạch toán và NSNN", khi sử dụng
+vật liêu jđến đâu thì làm thu tục ghi thu ghi chi đến đó
+
