@@ -13,3 +13,112 @@ kho bạc theo mục lục NS
 khi được nhậnk giấy báo có hoặc chứng từ của kho bạc, căn cứ vào chứng từ của kho bạc
 hạch toán vào tài khoản 112- tiền gửi kho bạc ngân hàng (1121) VÀ tài khoản 714
 ( thu ngân sách xã hạch toán vào NSNN)
+1.5 những khoản thu ngân sách thu băngf biên lai thu tiền tia jsâx được chia làm 1 số tường hợp như
+- Những khoản thu ngân sách trong ngày nếu chưa kịp nộp vào kho bạc thì phải nhập quỹ
+tiền mặt của xã, căn cứ vào phiếu thu và bảng tổng hợp biên lai ghi tăng quỹ tiền
+mặt, tăng thu chưa hạch toán vào ngân sách ( nợ 111/có 337)
+- khi nào xuất quỹ nộp vào tài khoản kho bạc, căn cứ vào phiếu chi và giấy nộp
+tiền vào kho bạc đã dc xác nhận ghi: nợ 1121/có 111, nợ 337/có 714
+- những khoản thu ngân sách xã nếu như thu xong nộp thẳng vào ngân sách tại kho bạc
+( chủ yếu những xã thị trấn ở gần kho bạc) căn cứ vào giấy nộp tiền đã được kho bạc xác
+nhận, ghi nợ 1121/có 714
+- trường hợp những xã miền núi thuộc vùng sâu vùng xa ở quá xa kho bạc, đi lại khó khăn
+được cấp có thẩm quyền cho phép giữ lại 1 số khoản thu ngân sách để chi ngân sách
+, định kì kế toán lập bảng kê ghi thu ghi chi ngân sách xã để làm thủ tục ghi thu 
+ghi chi hạch toán vào ngân sách nhà nước.
++ Khi thu nhâp quỹ ghi nợ 111/có 337
++ khi xuất quỹ chi chưa hạch toán, nợ 137/ có 111
++ định kì làm thủ tục ghi thu ghi chi hạch toán vào NSNN, căn cứ vào bảng ghi thu ghi chi đã
+được kho bạc chấp nhận, kế toán ghi nợ 337/có 714, nợ 814/có 137
+
++ không hạch toán vào tài khoản 714 " thu ngân sách xã hạch toán vào NSNN" những khoản
+thu để hình thành các quỹ tài chính ngoài ngân sách của xã, những khoản thu hộ cơ quan cấp trên
++ cuối năm, số thu ngân sách hạch toán vào NSNN thực hiện lũy kế từ đầu năm đến
+cuối 31/12 đã được theo dõi trên tài khoản 714- thu ngân sách xã hạch toán vào NSNN sẽ
+được kết chuyển sang tài khoản 914- chênh lệch thu chi NSX.
+sau khi quyết toán thu NS năm trước đc HDND phê chuẩn sẽ kết chuyển số thu NSX trong thời gian chỉnh
+lý sang 915- chênh lệch thu chi NSX trong thời gian chỉnh lý để xác định số kết dư NS
+
+2. Kết cấu và nội dung phản ánh của tài khoản 714
+
+Bên nợ:
+- số thoái thu NSX hạch toán vào NSNN
+- kết chuyển số thu hạch toán vào ngân sách nhà nướC trong năm sang tài khoản 914-
+chênh lệch thu chi NSX
+Bên có:
+- số thu NSX hạch toán vào NSNN
+- thu kết dư ngân sách nhà nước năm trước
+
+ Tài khoản này không có số dư cuối kỳ
+3. Phương pháp hạch toán kế toán 1 số hoạt động kinh tế
+
+a, đối với các khoản thu ngân sách khi thu được tiền, nộp vào tiền mặt của xã sau đó
+mới nộp vào kho bạc
+- căn cứ vào biên lai thu tiền hoặc hợp đồng giao khoán lập phiếu thu làm thủ 
+tục nhập quỹ tiền mặt
+nợ 111/có 337
+- khi nộp tiền thu NSX vào tài khoản NS tại kho bạc, căn cứ phiếu chi và giấy nộp tiền mặt
+vào ngân sách, ghi:
+nợ tk 1121/ có tk 111
+nợ 337/có 714
+b, nộp thẳng lên kho bạc nợ 1121/có 714
+
+c, trường hợp xã ở miền núi vùng cao đi lại khó khăn, giữ để lại chi
+- khi thu tiền mặt nhập vào quỹ của xã
+nợ 111/ có 337
+- khi xuất quỹ tiền mặt chi NSX , căn cứ phiếu chi, ghi
+nợ 137 ( chi ngân sách xã chư hạch toán vào NSNN)/ có 111
+định kì lập bảng kê ghi thu ghi chi NSX ( tổng số thu bằng tổng số chi) để thực hiện ghi thu 
+ghi chi hạch toán vào NSNN, căn cứ vào chứng từ đã được kho bạc xác nhận:
++ ghi thu NSX hạch toán vào NSNN
+Nợ 337/có 714
+Nợ 814/có 137
+
+Hạch toán các khoản thu phân chia theo tỉ lệ giữa các cấp ngân sách( thu về thuế, phí lệ phí)
+a, những khoản thuế, phí lệ phí cơ quan thuế ủy quyền cho UBND xã thu ( thu bằng
+biên lai cơ quan thuế kể cả các khoản thuế, lệ phí xã hưởng 100%)
+- khi thu bằng tiền mặt nếu chưa kịp nộp vào kho bạc mà nhập vào quỹ tiền mặt của xã
+nợ 111/có 336 - các khỏa thu hộ chi hộ
+- khi thanh toán tiền thu thuế, phí lệ phí với cơ quan thuế
+nợ 336/có 111
+- khi nhận được giấy báo có của kho bạc về số tiền thuế mà xã được hưởng 100%, ghi
+nợ 1121/có 714
+b, những khoản thu do cơ quan thuế trực tiếp thu của các đối tượng trên địa bàn
+- khi thu tiền thuế và nộp vào ngân sách do cán bộ thuế chiu jtrách nhiệm
+- Khi nhận đc chứng từ của kho bạc báo số thu NS trên địa b àn, phân chia cho xã 
+theo tỷ lệ điều tiết
+nợ 1121/có 714
+3.3 Hạch toán thu bổ sung từ ngân sách cấp trên
+Khi nhận được chứung từ của kho bạc báo số thu bổ sung từ ngân sách cấp trên
+nợ 1121/có 714
+
+3.4 Thu ngân sách xã bằng hiện vật kể cả các khoản thu viện trợ bằng vật tư thiết bị
+Căn cứ vào số lượng hiện vật quy ra giá trị để hạch toán
+a, trường hợp có tổ chức kho quản lý và hạch toán nhập xyáat hiện vật qua kho
+- khi thu được hiện vật nhập kho, ghi
+nợ 152(vật liệu)/có 337
+- khi xuất hiện vật ra sử dụng cho các công trình XD, lập phiếu xuất kho
+nợ 2412(xây dựng cơ bản dở dang)/có 152
+
+- Ghi tăng nguồn knih phí đầu tư XDCB và ghi chi chưa hạch toán vào NSNN giá trị hiện vât
+đã xuất ra sử dụng, ghi
+nợ 137/có 441 ( nguồn knih phí đầu tư xây dựng cơ bản)
+- Khi công trình hàon thành hoặc cuối niên độ ngân sách, căn cứ vào phiếu xuất kho, lập bảng kê kèm theo
+phiếu xuất kho làm thủ tục ghi thu ghi chi hạch toán vào NSNN theo đúng giá trị
+hiện vật xuất ra sử dụng
++ Ghi thu ngân sách nợ 337/ có 714
++ ghi chi ngân sách nợ 814/có 137
+b, trường hợp thu hiện vật nhưng không nhập hko mà dưa vào sử dụng ngay
+- khi thu hiện vật đưa vào sử dụng ngayu, căn cứ vào giấy báo thu hiện vật, phản ánh thu
+nợ 241( xây dựng cơ bản dở dang)/ có 337 ( thu ngân sách xã hạch toán vào NSNN)
+- đồng thời phản ánh ghi chi nsx chưa hạch toán vào NSNN để hình thành nguồn
+kinh phí đầu tư XDCB bằng số hiện vật thu đã sử dụng cho công trình, ghi:
+Nợ 137/ có 441
+- Khi công trình hoàn thành hoặc cuối niên độ ngân sách, làm thủ tục ghi thu, ghi chi hạch toán vào ngân sách Nhà nước, căn cứ vào chứng từ đã được Kho bạc xác nhận.
++ Ghi thu ngân sách số hiện vật:
+Nợ TK 337- Thu ngân sách xã chưa hạch toán vào NSNN
+Có TK 714- Thu ngân sách xã hạch toán vào NSNN.
++ Ghi chi ngân sách số hiện vật:
+Nợ TK 814- Chi ngân sách xã hạch toán vào NSNN
+Có TK 137- Chi ngân sách xã chưa hạch toán vào NSNN.
+
