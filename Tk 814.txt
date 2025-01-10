@@ -1,0 +1,148 @@
+TÀI KHOẢN 814
+CHI NGÂN SÁCH XÃ HẠCH TOÁN VÀO NGÂN SÁCH NHÀ NƯỚC
+1- Nguyên tắc kế toán
+1.1- Tài khoản này phản ánh các khoản chi ngân sách xã hạch toán vào ngân sách Nhà nước trong năm theo dự toán được duyệt từ ngày 01/01 đến ngày 31/12.
+1.2- Chỉ phản ánh vào tài khoản này những khoản chi ngân sách xã theo dự toán được duyệt, gồm:
+- Các khoản chi thường xuyên;
+- Các khoản chi cho đầu tư phát triển.
+1.3- Không phản ánh vào Tài khoản 814- Chi ngân sách xã hạch toán vào NSNN những khoản chi sự nghiệp, những khoản chi phí sản xuất, dịch vụ của các hoạt động sản xuất, dịch vụ của xã.
+1.4- Những chứng từ để ghi vào Tài khoản 814- Chi ngân sách xã hạch toán vào NSNN là những chứng từ đã phân định rõ nội dung chi theo mục lục ngân sách và đã được Kho bạc nhà nước kiểm soát chi và xác nhận được hạch toán vào tài khoản chi ngân sách xã hạch toán vào ngân sách Nhà nước.
+1.5- Đối với khoản chi ngân sách được chia làm 2 trường hợp:
+- Cấp phát trực tiếp: Xã lập Lệnh chi tiền hoặc Giấy rút dự toán; trên Lệnh chi tiền hoặc Giấy rút dự toán phải ghi đầy đủ chương, mã ngành kinh tế, mã nội dung kinh tế hoặc theo quy định của mục lục ngân sách nhà nước. Khi chi hạch toán thẳng vào Tài khoản 814- Chi ngân sách xã hạch toán vào NSNN.
+- Cấp phát tạm ứng của Kho bạc:
++ Tạm ứng chi thường xuyên: Đối với các khoản chi chưa đủ điều kiện thanh toán, xã làm lệnh chi tạm ứng để tạm ứng tiền ở Kho bạc về để chi, khi chi hạch toán vào Tài khoản 137- Chi ngân sách xã chưa hạch toán vào NSNN. Căn cứ vào chứng từ, kế toán xã lập "Giấy đề nghị Kho bạc thanh toán tạm ứng" và "Bảng kê chứng từ chi" làm thủ tục ghi chi ngân sách nhà nước tại Kho bạc để chuyển từ Tài khoản 137- Chi ngân sách xã chưa hạch toán vào NSNN sang Tài khoản 814- Chi ngân sách xã hạch toán vào NSNN.
++ Tạm ứng chi cho các công trình XDCB hoặc để hình thành nguồn kinh phí đầu tư XDCB tập trung của xã: Xã lập lệnh chi tạm ứng để tạm ứng cho người nhận thầu, trả tiền mua vật liệu, thiết bị xây dựng, tạm ứng để hình thành nguồn kinh phí đầu tư XDCB tập trung của xã... Khi công trình hoàn thành, thanh toán số tiền đã tạm ứng của ngân sách, chuyển số chi chưa hạch toán vào ngân sách Nhà nước thành số chi hạch toán vào ngân sách Nhà nước ghi Nợ 814/Có 137.
+1.6- Hạch toán chi ngân sách phải mở sổ kế toán "Chi ngân sách xã" và sổ tổng hợp chi ngân sách xã để hạch toán chi ngân sách theo MLNS phục vụ cho việc lập báo cáo chi ngân sách theo nội dung kinh tế và báo cáo chí ngân sách theo Mục lục ngân sách.
+1.7- Hạch toán chi ngân sách phải thống nhất với dự toán ngân sách về nội dung chi, định mức chi, phương pháp tính toán các chỉ tiêu. Đồng thời, phải đảm bảo sự thống nhất và khớp đúng giữa hạch toán tổng hợp với hạch toán chi tiết, giữa số liệu trên sổ chi ngân sách với số liệu trên chứng từ và báo cáo tài chính, báo cáo quyết toán, giữa số liệu trên sổ chi ngân sách với số liệu trên Tài khoản 814- Chi ngân sách xã hạch toán vào NSNN, giữa số liệu trên sổ chi ngân sách với số liệu trên sổ tổng hợp thu, chi ngân sách theo các chỉ tiêu báo cáo.
+1.8- Cuối ngày 31/12 số chi ngân sách xã lũy kế từ đầu năm hạch toán trên Tài khoản 814- Chi ngân sách xã hạch toán vào NSNN, được kết chuyển sang Tài khoản 914- Chênh lệch thu, chi ngân sách xã.
+1.9- Số thực chi ngân sách trong năm phản ánh trên Tài khoản 814- Chi ngân sách xã hạch toán vào NSNN, không được lớn hơn số thực thu ngân sách phản ánh trên Tài khoản 714- Thu ngân sách xã hạch toán vào NSNN.
+2- Kết cấu và nội dung phản ánh của Tài khoản 814- Chi ngân sách xã hạch toán vào ngân sách Nhà nước
+Bên Nợ:
+Số chi ngân sách xã hạch toán vào ngân sách Nhà nước đã phát sinh trong năm được phản ánh vào chi ngân sách xã hạch toán vào ngân sách Nhà nước.
+Bên Có:
+- Số chi sai bị xuất toán phải thu hồi.
+- Kết chuyển số chi hạch toán vào ngân sách Nhà nước trong năm lũy kế từ đầu năm đến cuối ngày 31/12 sang Tài khoản 914- Chênh lệch thu, chi ngân sách xã.
+Tài khoản này không có số dư cuối kỳ.
+3- Phương pháp hạch toán kế toán một số hoạt động kinh tế chủ yếu
+3.1- Hạch toán các khoản chi thường xuyên tại xã
+a) Phản ánh tiền lương, phụ cấp và các khoản phải trả cho cán bộ, công chức cấp xã tính vào chi ngân sách, ghi:
+Nợ TK 814- Chi ngân sách xã hạch toán vào NSNN 
+Có TK 334- Phải trả cán bộ, công chức.
+b) Trích BHXH, BHYT, KPCĐ, BHTN phải nộp tính vào chi của ngân sách xã theo quy định, ghi:
+Nợ TK 814- Chi ngân sách xã hạch toán vào NSNN
+Có TK 332- Các khoản phải nộp theo lương (3321, 3322, 3323, 3324)
+c) Khi nhận giấy phạt nộp chậm số tiền BHXH phải nộp, ghi:
+Nợ TK 311- Các khoản phải thu (Chờ xử lý phạt nộp chậm)
+Nợ TK 814- Chi ngân sách xã hạch toán vào NSNN (Nếu được phép ghi vào chi NSX)
+Có TK 332- Các khoản phải nộp theo lương (3321).
+d) Khi đơn vị chi trả thu nhập cho các cá nhân bên ngoài phải xác định số thuế thu nhập cá nhân phải nộp tính trên thu nhập không thường xuyên chịu thuế theo từng lần phát sinh thu nhập, ghi:
+Nợ TK 814- Chi ngân sách xã hạch toán vào NSNN (Tổng số thanh toán) 
+Có TK 333- Các khoản phải nộp Nhà nước (Số thuế thu nhập cá nhân phải khấu trừ)
+Có các TK 111,112...(Số tiền thực trả)
+đ) Đối với những khoản chi thẳng bằng chuyển khoản: (những khoản chi ngân sách có đủ điều kiện thanh toán)
+- Khi xã lập Lệnh chi để chi trả tiền đóng BHXH, mua thẻ BHYT, trả tiền điện, cước phí bưu điện và 1 số dịch vụ khác, căn cứ vào hóa đơn và giấy báo Nợ (1 liên của lệnh chi từ Kho bạc chuyển về) kế toán ghi thẳng vào tài khoản 814- Chi ngân sách xã hạch toán vào NSNN.
+Nợ TK 814- Chi ngân sách xã hạch toán vào NSNN
+Có TK 112- Tiền gửi Ngân hàng, Kho bạc (1121)
+e) Những khoản chi thẳng ngân sách xã bằng tiền mặt:
+Những khoản chi về tiền lương, phụ cấp có trong dự toán được duyệt, khi xã xuất quỹ thanh toán được hạch toán thẳng vào chi hạch toán vào ngân sách Nhà nước:
+- Khi xã lập Lệnh chi rút tiền mặt về xã để chi trả tiền lương và phụ cấp, căn cứ vào báo Nợ của Kho bạc (1 liên Lệnh chi từ Kho bạc chuyển về), lập phiếu thu nhập quỹ, ghi:
+Nợ TK 111- Tiền mặt
+Có TK 112- Tiền gửi Ngân hàng, Kho bạc (1121).
+- Khi xuất quỹ ra chi trả lương, sinh hoạt phí và phụ cấp, căn cứ vào phiếu chi, ghi:
+Nợ TK 814- Chi ngân sách xã hạch toán vào NSNN 
+Có TK 111- Tiền mặt.
+g) Khi rút dự toán để chi chuyển khoản (những khoản chi có đủ điều kiện thanh toán), ghi:
+Nợ TK 814- Chi ngân sách xã hạch toán vào NSNN 
+Có TK 112- Tiền gửi Ngân hàng, Kho bạc
+Đồng thời, ghi: Có TK 008- Dự toán chi ngân sách (00822).
+h) Khi rút dự toán về quỹ tiền mặt của xã (Rút tạm ứng chưa đủ điều kiện thanh toán), ghi:
+Nợ TK 111- Tiền mặt
+Có TK 112- Tiền gửi Ngân hàng, Kho bạc.
+Đồng thời, ghi: Có TK 008- Dự toán chi ngân sách (00821).
+i) Khi xuất quỹ tiền mặt chi trực tiếp những khoản chi thường xuyên tại xã, ghi:
+Nợ TK 137- Chi ngân sách xã chưa hạch toán vào NSNN 
+Có TK 111- Tiền mặt
+k) Khi có đầy đủ chứng từ, kế toán lập Giấy đề nghị Kho bạc thanh toán tạm ứng kèm theo bảng kê chứng từ chi làm thủ tục thanh toán với Kho bạc, căn cứ Giấy đề nghị Kho bạc thanh toán tạm ứng đã được Kho bạc chấp thuận, ghi:
+Nợ TK 814- Chi ngân sách xã hạch toán vào NSNN
+Có TK 137- Chi ngân sách xã chưa hạch toán vào NSNN.
+Đồng thời, ghi:
+Có TK 008- Dự toán chi ngân sách (00821) (ghi âm)
+Có TK 008- Dự toán chi ngân sách (00822) (ghi dương).
+3.2- Chi đầu tư phát triển
+a) Chi mua sắm tài sản cố định đưa về sử dụng ngay bằng chuyển khoản: Căn cứ vào Hóa đơn mua tài sản, lập Lệnh chi tiền chi ngân sách bằng chuyển khoản, căn cứ vào giấy báo Nợ của Kho bạc, ghi:
+Nợ TK 814- Chi ngân sách xã hạch toán vào NSNN 
+Có TK 112- Tiền gửi Ngân hàng, Kho bạc.
+b) Trường hợp lập Giấy rút dự toán ngân sách chuyển khoản mua TSCĐ, căn cứ vào chứng từ được Kho bạc chấp nhận thanh toán, ghi:
+Nợ TK 814- Chi ngân sách xã hạch toán vào NSNN
+Có TK 112- Tiền gửi Ngân hàng, Kho bạc (1121)
+Đồng thời ghi Có TK 008- Dự toán chi ngân sách (0082).
+Các trường hợp a) và b) nêu trên phải đồng thời ghi tăng TSCĐ và ghi tăng nguồn kinh phí đã hình thành TSCĐ. Căn cứ vào hóa đơn mua tài sản, biên bản giao nhận TSCĐ và các chứng từ có liên quan, ghi:
+Nợ TK 211- Tài sản cố định
+Có TK 466- Nguồn kinh phí đã hình thành TSCĐ.
+c) Chi mua sắm tài sản cố định đưa về sử dụng ngay bằng tiền mặt tạm ứng từ Kho bạc:
+- Căn cứ vào hóa đơn mua tài sản, phiếu chi, ghi chi ngân sách xã chưa hạch toán vào ngân sách Nhà nước:
+Nợ TK 137- Chi ngân sách xã chưa hạch toán vào NSNN 
+Có TK 111- Tiền mặt.
+- Căn cứ Biên bản giao nhận tài sản cố định và các chứng từ có liên quan, ghi tăng TSCĐ và nguồn kinh phí đã hình thành TSCĐ:
+Nợ TK 211 - Tài sản cố định
+Có TK 466- Nguồn kinh phí đã hình thành TSCĐ
+- Làm thủ tục thanh toán tạm ứng với Kho bạc, căn cứ vào Giấy đề nghị Kho bạc thanh toán tạm ứng được Kho bạc chấp nhận, kế toán chuyển từ chi ngân sách xã chưa hạch toán vào ngân sách Nhà nước sang chi ngân sách xã hạch toán vào ngân sách Nhà nước, ghi:
+Nợ TK 814- Chi ngân sách xã hạch toán vào NSNN
+Có TK 137- Chi ngân sách xã chưa hạch toán vào NSNN.
+d) Chi mua sắm TSCĐ phải qua lắp đặt, chạy thử: Xem phương pháp hạch toán ở phần I của tài khoản 241- XDCB dở dang 
+đ) Chi ngân sách cho đầu tư XDCB:
+- Nhập kho số vật tư thiết bị mua về chưa thanh toán, căn cứ hóa đơn, phiếu nhập kho, ghi:
++ Nếu mua vật tư chưa thanh toán:
+Nợ TK 152- Vật liệu
+Có TK 331 - Các khoản phải trả
++ Trường hợp Ngân sách xã làm lệnh chi tạm ứng vốn cho chủ đầu tư để mua vật tư hoặc chuyển trả cho người cung cấp, người nhận thầu, ghi:
+Nợ TK 152- Vật liệu (mua vật tư về nhập kho)
+Nợ TK 331- Các khoản phải trả (chuyển khoản trả cho người cung cấp người nhận thầu)
+Có TK 112- Tiền gửi Ngân hàng, Kho bạc (1121)
+Đồng thời ghi tăng nguồn kinh phí đầu tư XDCB và chi ngân sách xã chưa hạch toán vào ngân sách nhà nước số tiền ngân sách đã tạm ứng cho chủ đầu tư để mua vật tư hoặc trả cho người cung cấp, người nhận thầu, ghi:
+Nợ TK 137- Chi ngân sách xã chưa hạch toán vào NSNN 
+Có TK 441 - Nguồn kinh phí đầu tư XDCB
+- Xuất vật tư, thiết bị XDCB sử dụng cho công trình, ghi:
+Nợ TK 241- XDCB dở dang (2412)
+Có TK 152- Vật liệu
+- Khi ứng tiền cho nhà thầu xây lắp theo hợp đồng ký kết, ghi:
+Nợ TK 331 - Các khoản phải trả
+Có TK 111- Tiền mặt (nếu ứng bằng tiền mặt)
+Có TK 112- Tiền gửi Ngân hàng, Kho bạc (1128) (rút tiền gửi vốn đầu tư ứng trước cho người nhận thầu)
+Có TK 441- Nguồn kinh phí đầu tư XDCB (Nhận vốn Ngân sách chi cho đầu tư, xã làm lệnh chi chuyển khoản thẳng cho nhà thầu)
+Đồng thời ghi chi ngân sách xã chưa hạch toán vào NSNN để hình thành nguồn vốn đầu tư XDCB đối với phần vốn ngân sách đã làm lệnh chi chuyển khoản thẳng cho nhà thầu, ghi:
+Nợ TK 137- Chi ngân sách xã chưa hạch toán vào NSNN (nếu là cấp tạm ứng)
+Có TK 112- Tiền gửi Ngân hàng, Kho bạc (1121)
+- Nhận khối lượng XDCB hoàn thành do bên nhận thầu bàn giao, căn cứ hợp đồng giao thầu, hóa đơn khối lượng XDCB hoàn thành hoặc phiếu giá công trình và biên bản nghiệm thu bàn giao khối lượng, ghi:
+Nợ TK 241- XDCB dở dang (2412)
+Có TK 331 - Các khoản phải trả
+- Thanh toán cho người nhận thầu, người cung cấp dịch vụ, vật tư, hàng hóa có liên quan đến đầu tư XDCB, ghi:
+Nợ TK 331- Các khoản phải trả 
+Có TK 111- Tiền mặt
+Có TK 112- Tiền gửi Ngân hàng, Kho bạc (1128)
+Có TK 311- Các khoản phải thu (chi tiết tạm ứng)
+- Khi phát sinh chi phí XDCB khác, ghi:
+Nợ TK 241- XDCB dở dang (2412)
+Có TK 111- Tiền mặt
+Có TK 112- Tiền gửi Ngân hàng, Kho bạc (1128)
+e) Nhận vốn viện trợ chi thẳng cho công trình xây dựng cơ bản, ghi:
+* Khi nhận viện trợ là vật tư, thiết bị chuyển thẳng cho công trình:
+- Ghi thu, ghi chi ngân sách xã chưa hạch toán vào NSNN số vật tư thiết bị nhận viện trợ, kế toán ghi:
+Nợ TK 137- Chi ngân sách xã chưa hạch toán vào NSNN
+Có TK 337- Thu ngân sách xã chưa hạch toán vào NSNN.
+- Ghi chi đầu tư XDCB và ghi tăng nguồn kinh phí đầu tư XDCB giá trị vật tư thiết bị nhận viện trợ chuyển thẳng cho công trình, ghi:
+Nợ TK 241 - Xây dựng cơ bản dở dang (2412)
+Có TK 441- Nguồn kinh phí đầu tư XDCB
+- Sau khi công trình hoàn thành bàn giao đưa vào sử dụng hoặc cuối niên độ kế toán làm thủ tục ghi thu ghi chi ngân sách xã hạch toán vào ngân sách Nhà nước số vốn của ngân sách đã cấp cho công trình:
++ Ghi thu hạch toán vào NSNN:
+Nợ TK 337- Thu ngân sách xã chưa hạch toán vào NSNN
+Có TK 714- Thu ngân sách xã hạch toán vào NSNN.
++ Ghi chi hạch toán vào NSNN:
+Nợ TK 814- Chi ngân sách xã hạch toán vào NSNN
+Có TK 137- Chi ngân sách xã chưa hạch toán vào NSNN.
+* Căn cứ vào quyết toán công trình được duyệt, lập Biên bản giao nhận TSCĐ:
+Nợ TK 211 - Tài sản cố định
+Có TK 466- Nguồn kinh phí đã hình thành TSCĐ
+- Căn cứ vào quyết toán công trình được duyệt, ghi:
+Nợ TK 441 - Nguồn kinh phí đầu tư XDCB 
+Có TK 241- XDCB dở dang (2412)
