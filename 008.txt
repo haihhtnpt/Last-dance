@@ -1,0 +1,65 @@
+tài khoản 008
+1. Nguyên tắc kế toán
+tìa khoản này dùng cho các xã để phản ánh số dự toán chi ngân sách được cấp có thảm quyền giao
+giao và việc rút dự toán chi hoạt động ra sử dụng
+2. kết cấu và nội dung phản ánh của tìa khoản 008- dự toán chi ngân sách
+bên nợ:
+-dự toán chi ngân sách được giao
+- số huỷt dự toán ( ghi âm)
+- số dự toán điều chỉnh trong năm ( tăng ghi dương, giảm ghi âm)
+bên có
+rút dự toán chi ngân sách ra sử dụng
+- nộp giảm số đã rút ( bao gồm nộp khôi phục dự toán và giảm khác) ghi âm
+số dư bên nợL dự tóa nchi ngân sách được rút
+tài khoản 008: dự toán chi ngan scáh có 2 tài khoản cấp 2
+- tìa khoản 0081: năm trước: Phản ánh số dự toán chi ngân scahs dược giao thuộc ngân sách năm trươics chưa được quyết toán
+
+tài khoản này có 2 tài khoản cấp 3:
+tài khoản 00811- tạm ứng: phản ánh số dự toán đã rút tạm sứng để chi cho hoạt động
+ngân sách nahf nước cấp thuộc ngân sách năm trước
+tài khoản 00812- thực chi: phản ánh số dự tóa nđã rút thực chi để chi cho hoạt động nsnn
+cấp thuộc ngân sách năm trước
+tài khoản 0082- năm nay: phả nánh số dự toán chi ngân scáh được igao thuộc ănm nay
+tài khoản này óc 2 tài khgoản cấp 3
+tài khoản 00821- tạm ứngl phản ánh số dự toán chi ngân sách được giao thuộc năm nay
+tài khoản 00822- thực chi: phả nánh số dự toán đã rút thực chi để chi cho hoạt động NSNN cấp
+thuộc ngân sách năm nay
+3- phương pháp hạch toán 1 số hoạt động kinh tế
+1. Khi được cấp có thảm quyền giao dự toán,
+nợ 008- dự toán chi ngân sách(0082)
+- Khi rút dự toán để chi chuyển khoản ( những khoản chi có đủ điều kiện thanh toán) ghi
+nợ 814- chi ngân sách xã hạch toán vào nsnn
+- có 112- tiền gửi ngân hàng kho bạc
+có tk 008- dự toán chi ngân sách 00822
+3. khi rút dự toán về quỹ tiền mặt của xã ( rút tạm ứng chưa đủ điều kiện thanh toán)
+nợ 111
+có 112
+đồng thời ghi
+có 008- dự toán chi ngân sách
+4. khi xấut quỹ tiền mặt chi trực tiếp những khgoản chi thường xuyên tại xã, ghi
+nợ 138- chi ngân sách chưa hạch toán vào nsnn
+có 111
+5. Khi có đầy đủ chứng từ, kế toán lập giấy đề nghị kho bạc thanh toán tạm ứng kèm theo bảng kê
+chứung từ cho làm thủ tục thanh toán với kho bạc, căn cứ giấy đề nghị kho bạc thanh toán 
+tạm ứung đã được kho bạc chấp thuận ghi
+nợ 814.có 137
+đồng thời ghi
+có 008- dự toán chi ngân sách 00821 ( ghi âm)
+có 008- dự toán chi ngân sách 00822 ( ghi dương)
+6. Cuối kì kế toán năm, các khoản chi chưa được cấp có thảm quyền phê duyệt quyết toán:
+- kế toán phải kết chuyển toàn bộ số phát sinh bên nợ của tk năm nay sang tk năm trước
+để chờ phê duyệt quyết toán, ghi:
+nợ 008- dự tóa nchi ngân sách 0082(ghi ân)
+đồng thời, ghi
+nợ 008- dự toán chi ngân sách 0081( ghi dương)
+- kế toán phải kết chuyển toàn bộ só pahjst sinh bên có của tk ănm tnay sang tk năm trước để chừo phê duyệt qiyế toán
+có 008- dự toán chi ngân  sách 0082 ghi âm
+có 008- dự toán chi ngân sách 0081 ghi dương
+3.7 trong thời gian chỉnh lý quyết toán nếu rút dự toán chi ( các khoản chi đủ diều kiện thanh tán)
+nợ 815- chi ngân sách trong thời gian chỉnh lý)
+có 112- tiền gửi ngân hàng kho bạc
+đồng thời ghi:
+có 008- dự toán chi ngân sách 0081
+3. Khi báo cáo được cấp có thẩm quyền phê duyệt quyế toán, ghi
+nợ 008- dự toán chi ngân sách 0081
+có 008- dự toán chi ngân sách 0081 ghi âm
