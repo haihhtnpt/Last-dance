@@ -122,3 +122,42 @@ Có TK 714- Thu ngân sách xã hạch toán vào NSNN.
 Nợ TK 814- Chi ngân sách xã hạch toán vào NSNN
 Có TK 137- Chi ngân sách xã chưa hạch toán vào NSNN.
 
+3.5 trường hợp nhân dân đsong góp bằng ngày công lao đọng để xây dựng các cơ sở hạ tầng
+- khi thu nsx bằng ngày công lao động, ghi
+nợ tk 137- chi ngân sách xã chư hạch toán
+có 337 - thu nsx chưa hạch toán
+- đồng thời ghi chi xây dựng cơ bản và ghi tăng nguồn kp xây dựng cơ bản
+nợ 2411 - xây dựng cơ bản dở dang
+có 441- nguồn kinhh phí xây dựng cơ bản
+- định kì làm thủ tục ghi thu ghi chi
++ ghi thu hạch toán vào NSNN
+ nợ 337/ có 714
++ ghi chi hạch toán vào NSNN
+nợ 814/ có 137 
+3.6 thoái thu nsnn
+a, tháoi trả tại kho bạc số thu hạch toán vào ngân sách nhà nước
+- căn cứ vào giấy báo nợ của kbnn, ghi
+nợ tk 714- thu nsx hạch toán vào nsnn
+có tk 1121- tiền gửi ngân hàng kho bạc
+- trường hợp năm sau tháoi thu các khoản thu thuộc năm trước: xã làm lệnh chi
+tháoi thu các khoản thuộc nămn trước ( lấy số chi NS năm sau để thoái trả các khoản thu
+thuộc năm trước
+nợ 814/có 1121
+b, thoái trả trực tiếp cho các đối tượng nhân jtiền mặt tại xã
+- nợ 714 ( nếu thoái thu thuộc ngân sách nănm sau)
+- nợ 814 ( nếu tháoi thu để trả các khoản thu thuọc ngân sách năm trước)
+ có tk 331 - các khoản phải trả
+- xã làm lệnh chi rút tiền mặt về xã để thoái trả
+nợ 111/ có 1121
+- khi xuất quỹ trả
+nợ 331/ có tk 111
+3.7 thu bồi thường kiểm kê tscđ
+- nếu cho hpép xóa bỏ thiệt hại do thiếu mát
+nợ 714- thu nsx hạch toán vào nsnn
+có 311- các khoản phải thu
+- nếu trừ vào lương
+nợ 111, 112(nếu thu tiền)
+nợ tk 334: phải trả cán bộ công chức ( nếu trừ vào lương)
+có tk 311- các khoản phải thu
+
+
