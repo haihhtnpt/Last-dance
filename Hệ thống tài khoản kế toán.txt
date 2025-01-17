@@ -1,0 +1,4 @@
+Loại 1> tiền và vật tư
+111: tiền mặt
+112: tiền gửi ngân hàng, kho bạc
+1121: tiền ngân sách tại kh

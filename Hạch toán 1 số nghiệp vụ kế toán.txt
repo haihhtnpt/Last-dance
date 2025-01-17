@@ -1,0 +1,406 @@
+HẠCH TOÁN MỘT SỐ NGHIỆP VỤ KẾ TOÁN NGÂN SÁCH VÀ TÀI CHÍNH XÃ THEO THÔNG TƯ 70/2019/TT-BTC
+A.	THU NGÂN SÁCH XÃ
+TK 337 – Thu NSX chưa hạch toán vào NSNN
+Tk 714 – Thu NSX hạch toán vào NSNN
+1. Các khoản thu tại xã, NSX hưởng 100%
+1.1. Thu bằng tiền mặt
+a. Thu tiền mặt nhập quỹ sau đó nộp lên KBNN
+- Căn cứ vào Biên lai thu tiền hoặc Hợp đồng giao khoán lập phiếu thu làm thủ tục nhập quỹ tiền mặt của xã, ghi:
+Nợ TK 111/Có TK 337
+- Khi nộp tiền thu ngân sách vào tài khoản ngân sách tại Kho bạc, căn cứ phiếu chi và giấy nộp tiền mặt vào ngân sách đã được kho bạc xác nhận, ghi:
+Nợ TK 1121/Có TK 111
+Nợ TK 337/Có TK 714
+b. Thu tiền mặt nộp thẳng vào KBNN (không qua nhập quỹ của xã)
+- Căn cứ bảng tổng hợp biên lai thu tiền, giấy nộp tiền vào ngân sách đã được Kho bạc xác nhận, ghi:
+Nợ TK 1121/Có TK 714
+c. Thu tiền mặt được phép để lại sử dụng ngay (sau đó lập bảng kê ghi thu – ghi chi)
+- Căn cứ vào biên lai thu và phiếu thu tiền mặt đã nhập quỹ, ghi:
+Nợ TK 111/Có TK 337
+- Khi xuất quỹ tiền mặt chi ngân sách tại xã, căn cứ vào phiếu chi, ghi:
+Nợ TK 137/Có TK 111
+TK 137 – Chi NSX chưa hạch toán vào NSNN
+- Định kỳ, lập bảng kê ghi thu, ghi chi ngân sách xã (tổng số thu phải bằng tổng số chi) để thực hiện ghi thu, ghi chi hạch toán vào ngân sách Nhà nước, căn cứ vào chứng từ đã được Kho bạc xác nhận, ghi:
+Nợ TK 337/Có TK 714
+Nợ TK 814/Có TK 137
+       Có TK 00822
+1.2. Thu bằng hiện vật
+- Khi thu được hiện vật nhập kho, căn cứ phiếu nhập kho, ghi:
+Nợ TK 152/Có TK 337
+- Khi xuất hiện vật ra sử dụng cho các công trình XDCB, căn cứ vào phiếu xuất kho, ghi:
+Nợ TK 2412/Có TK 152
+Nợ TK 137/Có TK 441
+Nợ TK 005 (Nếu hiện vật xuất kho là công cụ dụng cụ lâu bền cần theo dõi)
+- Trường hợp thu hiện vật nhưng không nhập kho mà đưa vào sử dụng ngay cho công trình XDCB, căn cứ vào Giấy báo thu hiện vật, ghi:
+Nợ TK 2412/Có TK 337
+Nợ TK 137/Có TK 441
+Nợ TK 005 (Nếu hiện vật sử dụng là công cụ dụng cụ lâu bền cần theo dõi)
+- Khi công trình hoàn thành hoặc cuối niên độ ngân sách, làm thủ tục ghi thu, ghi chi hạch toán vào ngân sách Nhà nước:
+Nợ TK 337/Có TK 714
+Nợ TK 814/Có TK 137
+1.3. Thu bằng ngày công lao động
+- Khi thu ngân sách xã bằng ngày công lao động, căn cứ vào Giấy báo ngày công lao động đóng góp, ghi:
+Nợ TK 137/Có TK 337
+Nợ TK 241/Có TK 441
+- Định kỳ làm thủ tục ghi thu, ghi chi hạch toán vào ngân sách Nhà nước giá trị ngày công lao động:
+Nợ TK 337/Có TK 714
+Nợ TK 814/Có TK 137
+2. Thu điều tiết: Là khoản thu phát sinh trên địa bàn địa phương được hưởng theo một tỷ lệ phần trăm (%) nhất định. Thu điều tiết phát sinh trong trường hợp các khoản thu cố định của địa phương không đáp ứng được nhiệm vụ và chỉ tiêu được giao.
+a. Những khoản thuế, phí, lệ phí cơ quan thuế ủy quyền cho UBND xã thu.
+- Thu tiền thuế, phí, lệ phí nhập quỹ, căn cứ vào phiếu thu, ghi:
+Nợ TK 111/Có TK 336-khoản thu hộ
+- Khi thanh toán tiền thu thuế, phí, lệ phí với cơ quan thuế, căn cứ vào hướng dẫn của cơ quan thuế, viết Giấy nộp tiền vào ngân sách, ghi:
+Nợ TK 336/Có TK 111
+- Khi nhận được Giấy báo Có của Kho bạc về số tiền thuế, phí, lệ phí xã được hưởng, ghi:
+Nợ TK 1121/Có TK 714
+b. Những khoản thu do cơ quan thuế trực tiếp thu của các đối tượng trên địa bàn xã.
+- Khi nhận được chứng từ của Kho bạc báo số thu ngân sách trên địa bàn, phân chia cho xã theo tỷ lệ điều tiết, ghi:
+Nợ TK 1121/Có TK 714
+3. Thu bổ sung (Bao gồm bổ sung cân đối và bổ sung có mục tiêu)
+- Khi nhận được chứng từ của Kho bạc báo số thu bổ sung từ ngân sách cấp trên, ghi:
+N008
+Nợ 1121/Có 714
+4. Thu kết dư: chênh lệch lớn hơn giữa tổng số thu ngân sách so với tổng số chi ngân sách, trong quá trình điều hành ngân sách khoản này gọi là tăng thu, tiết kiệm chi và khi được cấp có thẩm quyền phê chuẩn quyết toán gọi là kết dự ngân sách.
+- Cuối năm (31/12), kế toán kết chuyển số thu và chi NSX đã hạch toán vào NSNN sang TK chênh lệch thu chi NSX:
+Nợ TK 714/Có TK 914-chênh lệch thu chi ngân sách
+Nợ TK 914/Có TK 814
+- Cuối năm (31/12), kết chuyển chênh lệch thu chi NSX trong năm sang TK kết dư NSX:
+Nợ TK 914/Có TK 474- kết dư ns
+- Sau khi HĐND xã đã phê chuẩn quyết toán thu, quyết toán chi ngân sách năm trước.
++ Kết chuyển số quyết toán thu, chi NSX trong thời gian chỉnh lý sang TK Chênh lệch thu, chi ngân sách xã trong thời gian chỉnh lý:
+Nợ TK 715/Có TK 915
+Nợ TK 915/Có TK 815
++ Kết chuyển chênh lệch thu, chi ngân sách xã trong thời gian chỉnh lý quyết toán sang tài khoản kết dư ngân sách xã:
+* Trường hợp phát sinh bên Có TK 915 lớn hơn bên Nợ TK 915:
+Nợ TK 915/Có TK 474
+* Trường hợp phát sinh bên Nợ TK 915 lớn hơn bên Có TK 915:
+Nợ TK 474/Có TK 915
++ Kết chuyển số kết dư NSX sang TK thu ngân sách xã chưa hạch toán vào NSNN:
+Nợ TK 474/Có TK 337
+- Khi KBNN xác nhận ghi thu ngân sách năm nay số kết dư ngân sách xã năm trước:
+Nợ TK 337/Có TK 714
+* TK 715-Thu NSX trong tg chỉnh lý
+- phản ánh số thu ngân sách xã năm trước hạch toán vào ngân sách Nhà nước phát sinh trong thời gian chỉnh lý quyết toán.
+- Số thu phát sinh trên TK này sẽ được cộng với (+) số thu phát sinh trong năm trên TK 714 - Thu ngân sách xã hạch toán vào NSNN trừ đi số thoái thu trên TK 474 – Kết dư ngân sách xã (nếu có) để lập báo cáo quyết toán thu ngân sách năm.
+* TK 474-Kết dư ngân sách xã
+- Kết dư ngân sách xã cuối năm (chênh lệch thu ngân sách xã > hơn chi ngân sách xã hạch toán vào NSNN cuối năm)
+- Hoặc hết thời gian chỉnh lý quyết toán (sau khi Hội đồng nhân dân xã phê duyệt quyết toán).
+5. Thoái thu ngân sách
+- Trong năm thoái trả tại Kho bạc số thu hạch toán vào ngân sách Nhà nước, căn cứ vào Giấy báo nợ của KBNN, ghi:
+Nợ TK 714/Có TK 1121
+- Thoái thu các khoản thu năm trước phát sinh trong thời gian chỉnh lý quyết toán tại Kho bạc, căn cứ giấy báo Nợ của KBNN, ghi:
+Nợ TK 474/Có TK 1121
+- Trường hợp năm sau thoái thu các khoản thu thuộc năm trước : Xã làm lệnh chi thoái thu các khoản thu thuộc năm trước (lấy số chi ngân sách năm sau để thoái trả các khoản thu thuộc các năm trước) để các đối tượng đến nhận tiền trực tiếp tại Kho bạc, căn cứ chứng từ, ghi:
+Nợ TK 814/Có TK 1121
+
+
+B. CHI NGÂN SÁCH XÃ
+1. Chi thường xuyên
+1.1. Tạm ứng
+a. Tạm ứng bằng tiền mặt
+- Khi rút dự toán về quỹ tiền mặt của xã (Rút tạm ứng chưa đủ điều kiện thanh toán), ghi:
+Nợ TK 111/Có TK 1121
+                    Có TK 00821
+- Xuất quỹ tiền mặt tạm ứng chi hoạt động, căn cứ vào phiếu chi, ghi:
+Nợ TK 137/Có TK 111
+- Khi có đầy đủ chứng từ, kế toán lập Giấy đề nghị Kho bạc thanh toán tạm ứng kèm theo Bảng kê chứng từ chi làm thủ tục thanh toán với Kho bạc:
+Nợ TK 814/Có TK 137
+                    Có TK 00821 – Ghi âm
+                    Có TK 00822 – Ghi dương
+b. Tạm ứng bằng chuyển khoản
+- Rút dự toán tạm ứng chuyển khoản để chi hoạt động:
+Nợ TK 137/Có TK 1121
+                    Có TK 00821
+- Khi đơn vị làm thủ tục thanh toán tạm ứng và được kho bạc chấp thuận:
+Nợ TK 814/Có TK 137
+                    Có TK 00821 – Ghi âm
+                    Có TK 00822 – Ghi dương
+1.2. Thực chi
+1.2.1. Chi lương
+a. Trả lương bằng tiền mặt
+- Tính lương thực trả CB, CC:
+Nợ TK 814/Có TK 334
+- Rút dự toán về nhập quỹ tiền mặt để trả lương:
+Nợ TK 111/Có TK 1121
+                    Có TK 00822
+- Xuất quỹ trả lương cho CB, CC:
+Nợ TK 334/Có TK 111
+b) Trả lương bằng chuyển khoản qua tài khoản ATM cá nhân.
+- Tính lương thực trả CB, CC:
+Nợ TK 814/Có TK 334
+- Rút dự toán chuyển vào tài khoản tiền gửi ngân hàng của đơn vị để trả lương:
+Nợ TK 1122/Có TK 1121
+                       Có TK 00822
+- Khi có xác nhận của Ngân hàng về số tiền lương đã được chuyển vào tài khoản cá nhân của từng CB, CC:
+Nợ TK 334/Có TK 1122
+1.2.2. Chi bảo hiểm
+- Tính 20.5% bảo hiểm (17.5% BHXH, 3% BHYT) phần đơn vị chịu vào chi NSX:
+Nợ TK 8142
+	Có TK 3321
+	Có TK 3322	
+- Khấu trừ 9.5% bảo hiểm (8% BHXH, 1.5% BHYT) vào lương CB, CC:
+Nợ TK 334
+	Có TK 3321
+	Có TK 3322	
+- Tính thêm 9.5% lương CB, CC khấu trừ bảo hiểm vào chi NSX:
+Nợ TK 814/Có TK 334
+- Rút dự toán chuyển khoản trả BHXH, BHYT (30.5%):
+Nợ TK 3321
+Nợ TK 3322
+            Có TK 1121
+            Có TK 00822
+1.2.3. Chi kinh phí công đoàn
+- Tính 2% KPCĐ vào chi NSX:
+Nợ TK 814/Có TK 3323
+- Rút dự toán chuyển khoản trả  KPCĐ:
+Nợ TK 3323/Có TK 1121
+                      Có 00822
+1.2.4. Chi mua sắm công cụ, dụng cụ
+- Rút dự toán kiêm chuyển khoản (đủ điều kiện thanh toán) mua công cụ, dụng cụ về sử dụng ngay:
+Nợ TK 814/Có TK 1121
+                   Có TK 00822
+Nợ TK 005 (Nếu CCDC mua về là CCDC lâu bền cần theo dõi)
+1.2.5. Chi mua sắm tài sản cố định
+- Rút dự toán ngân sách chuyển khoản mua TSCĐ về sử dụng ngay, căn cứ vào hóa đơn mua tài sản, biên bản giao nhận TSCĐ, chứng từ được Kho bạc chấp nhận thanh toán và các chứng từ có liên quan, ghi:
+Nợ TK 814/Có TK 1121
+                    Có TK 00822
+Nợ TK 211/Có TK 466
+- Mua sắm TSCĐ qua lắp đặt chạy thử:
+
+1.2.6. Chi hoạt động chuyên môn, nghiệp vụ khác (điện, nước, văn phòng phẩm, hội nghị,…)
+a. Chi bằng tiền mặt.
+- Rút dự toán (đủ đk thanh toán) về nhập quỹ tiền mặt: 
+Nợ TK 111/Có TK 1121
+                    Có TK 00822	
+- Xuất quỹ tiền mặt chi hoạt động:
+Nợ TK 814/Có TK 111
+b. Chi bằng chuyển khoản.
+- Rút dự toán (đủ đk thanh toán) chuyển khoản chi hoạt động:
+Nợ TK 814/Có TK 1121
+                     Có TK 00822
+2. Chi đầu tư XDCB
+2.1. Chi đầu tư XDCB trong năm
+* TH đơn vị đơn vị ứng tiền cho bên nhận thầu sau đó thanh toán tạm ứng với KBNN.
+- Trên cơ sở Hợp đồng giao thầu, đơn vị RDT vốn đầu tư ứng trước tiền cho bên nhận thầu (nếu trong hợp đồng có quy định ứng trước tiền):
+Nợ TK 33142/Có TK 1121
+Nợ TK 137/Có TK 4411
+                    Có TK 00821
+- Khi nhận khối lượng XDCB hoàn thành do bên nhận thầu bàn giao, ghi giảm khoản đã ứng trước cho nhà thầu:
+Nợ TK 2412/Có 33142: 200
+- Khi đơn vị làm thủ tục thanh toán tạm ứng với kho bạc số tiền đã ứng trước cho bên nhận thầu: 
+Nợ TK 814/Có TK 137
+                    Có TK 00821 – Ghi âm
+                    Có TK 00822 – Ghi dương
+* TH đơn vị nhận khối lượng XDCB nhà thầu bàn giao và sau đó rút dự toán vốn đầu tư trả cho nhà thầu.
+- Khi nhận khối lượng XDCB hoàn thành do bên nhận thầu bàn giao, căn cứ hợp đồng giao thầu, hóa đơn khối lượng XDCB hoàn thành hoặc phiếu giá công trình và biên bản nghiệm thu bàn giao khối lượng, ghi:
+Nợ TK 2412/Có 33141
+- RDT vốn đầu tư (thực chi) thanh toán tiền cho nhà thầu theo khối lượng xây lắp đã bàn giao, ghi:
+Nợ TK 33141/Có TK 1121
+Nợ TK 814/Có TK 4411
+                    Có TK 00822
+*TH đơn vị RDT vốn đầu tư (thực chi) chuyển khoản chi trực tiếp cho công trình XDCB (Các chi phí đơn vị chịu không thông qua nhà thầu).
+Nợ TK 2412/Có TK 1121
+Nợ TK 814/Có TK 441
+                    Có TK 00822
+*TH đơn vị RDT vốn đầu tư (thực chi) nhập quỹ để chi trả các khoản chi phí khác (chi phí giải phóng mặt bằng, chi phí BQL dự án, chi phí thẩm định, chi phí quyết toán,…):
+Nợ TK 111/Có TK 1121
+                    Có TK 00822
+- Xuất quỹ tiền mặt thanh toán các khoản chi phí giải phóng mặt bằng, chi phí BQL dự án, chi phí thẩm định, chi phí quyết toán…. căn cứ phiếu chi, ghi:
+Nợ TK 2412/Có TK 111
+Nợ TK 814/Có TK 441
+2.2. Quyết toán công trình hoàn thành
+-  Khi quyết toán vốn đầu tư, căn cứ quyết toán được cấp có thẩm quyền phê duyệt, ghi:
+Nợ TK 311 (Phần chi phí không được duyệt phải thu hồi)
+Nợ TK 441 (Giá trị công trình quyết toán được duyệt)
+             Có TK 241 
+- Thu hồi khoản chi sai bị xuất toán nhập quỹ tiền mặt:
+Nợ TK 111/Có TK 311
+- Nộp khoản chi sai vào tài khoản ngân sách tại KB:
+Nợ TK 1121/Có TK 111
+- Nộp trả nguồn kinh phí đầu tư xây dựng cơ bản cho ngân sách:
+Nợ TK 441/Có TK 1121
+- Các công trình xây dựng cơ bản của xã hoàn thành bằng nguồn vốn đầu tư XDCB, bàn giao đưa vào sử dụng (trường học, trạm xá, đường điện, chợ, cầu, cống,...), căn cứ vào giá trị công trình được phê duyệt quyết toán, lập biên bản bàn giao TSCĐ đưa vào sử dụng, ghi tăng tài sản cố định và nguồn kinh phí đã hình thành TSCĐ, ghi:
+Nợ TK 211/Có TK 466  (Giá trị công trình được phê duyệt quyết toán)
+- Trường hợp tài sản đã đưa vào sử dụng (do đã hoàn thành việc đầu tư xây dựng) nhưng chưa có quyết toán được cơ quan, người có thẩm quyền phê duyệt thì xã thực hiện ghi sổ kế toán tài sản cố định kể từ ngày có Biên bản nghiệm thu đưa tài sản vào sử dụng. Nguyên giá ghi sổ kế toán là nguyên giá tạm tính, nguyên giá tạm tính trong trường hợp này được lựa chọn theo thứ tự ưu tiên sau: (1) Giá trị đề nghị quyết toán; (2) Giá trị xác định theo Biên bản nghiệm thu A-B; (3) Giá trị dự toán Dự án đã được phê duyệt.
+Nợ TK 211/Có TK 466 (Nguyên giá tạm tính)
+? Xã ứng trc cho nhà thầu 300tr, nhà thầu bàn giao khối lượng 500tr, xã tt nốt phần còn thiếu cho nhà thầu và làm các thủ tục ntn. 
+Nợ TK 33142/Có TK 1121
+Nợ TK 137/Có TK 4411
+                    Có TK 00821
+? Xã Ut cho NT 300, nhưng klg bàn giao chỉ có 200tr
+? TS đưa vào sd rồi: giá trị Ct: 2ty-> trong 2ty TT NT: 1ty5 vẫn còn nợ 500Tr (chưa trả nhà thầu)
+-	Phải TTNT: N2412/C33141:2
+-	TTNT: N33141/C1121/C00822:1.5 + N814/C411:1.5
+-	TS đưa vào sd: 
+N441/C241:2
+? hoạch toán chi sai phải thu hồi:
+
+
+
+
+C. HOẠT ĐỘNG TÀI CHÍNH KHÁC CỦA XÃ
+1. Các khoản thu hộ, chi hộ
+1.1. Thu hộ
+- Thu hộ tiền cho cơ quan cấp trên:
+Nợ TK 111, TK 1128/Có TK 3361
+- Nộp tiền thu hộ lên cơ quan cấp trên:
+Nợ TK 3361/Có TK 111, TK 1128
+1.2. Chi hộ
+- Nhận tiền chi hộ cơ quan cấp trên cấp về tài khoản tiền gửi:
+Nợ TK 1128/Có TK 3362
+- Rút tiền chi hộ từ TK tiền gửi kho bạc, ngân hàng về nhập quỹ:
+Nợ TK 111/Có TK 1128
+- Xuất quỹ tiền mặt chi hộ cơ quan cấp trên: 
+Nợ TK 3362/Có TK 111
+2. Các quỹ tài chính ngoài ngân sách
+Quỹ tài chính ngoài ngân sách của xã là các quỹ tài chính được hình thành từ việc huy động đóng góp của nhân dân trong xã theo quy định hiện hành của Nhà nước và các khoản đóng góp trên nguyên tắc tự nguyện của nhân dân đã được HĐND xã quyết định không đưa vào ngân sách xã.
+- Khi thu các khoản đóng góp của dân để hình thành các quỹ tài chính ngoài ngân sách của xã, căn cứ vào biên lai thu tiền, lập phiếu thu tiền nhập vào quỹ xã, ghi
+Nợ TK 111/Có TK 431
+- Làm thủ tục nộp tiền mặt gửi vào tài khoản tiền gửi tại Kho bạc, ghi:
+Nợ TK 1128/Có TK 111
+- Rút tiền gửi các quỹ tài chính ngoài ngân sách về nhập quỹ tiền mặt:
+Nợ TK 111/Có TK 1128
+- Xuất quỹ chi:
+Nợ TK 431/Có TK 111
+- Trường hợp chuyển khoản chi sử dụng các quỹ tài chính ngoài ngân sách của xã, căn cứ vào giấy báo nợ của Kho bạc, ghi:
+Nợ TK 431/Có TK 112
+
+D. HẠCH TOÁN KẾ TOÁN CUỐI NĂM, THỜI GIAN CHỈNH LÝ, QUYẾT TOÁN
+1. Tính hao mòn TSCĐ
+- Cuối năm, lập Bảng tính hao mòn TSCĐ, Căn cứ Bảng tính hao mòn TSCĐ, ghi:
+Nợ TK 466/Có TK 214
+2. Kết chuyển TK xác định chênh lệch thu chi trong năm
+- Kết chuyển số thu ngân sách xã hạch toán vào ngân sách Nhà nước trong năm vào TK chênh lệch thu, chi ngân sách xã:
+Nợ TK 714/Có TK 914
+- Kết chuyển số chi ngân sách xã hạch toán vào ngân sách Nhà nước trong năm vào TK chênh lệch thu, chi ngân sách xã:
+Nợ TK 914/Có TK 814
+- Kết chuyển chênh lệch thu, chi ngân sách xã trong năm sang TK kết dư ngân sách xã:
+Nợ TK 914/Có TK 474
+3. Thu, chi trong thời gian chỉnh lý quyết toán
+- Đối với những khoản thu ngân sách bằng hiện vật, ngày công và những xã được phép giữ lại các khoản thu để chi ngân sách trước ngày 31/12, nay làm thủ tục ghi thu, ghi chi ngân sách tại Kho bạc, căn cứ vào Bảng kê ghi thu, ghi chi ngân sách được Kho bạc chấp nhận.
++ Ghi thu ngân sách năm trước giá trị ngày công và hiện vật:
+Nợ TK 337/Có TK 715
++ Ghi chi ngân sách xã năm trước giá trị hiện vật, ngày công đã sử dụng:
+Nợ TK 815/Có TK 137
+- Rút dự toán chi (các khoản chi đủ điều kiện thanh toán) những khoản chi thuộc ngân sách năm trước, ghi: KH-6
+Nợ TK 815/ Có TK 1121
+        Có TK 00812
+- Làm thủ tục ghi chi ngân sách xã tại Kho bạc những khoản chi vào đầu năm sau được tính vào năm ngân sách năm trước, căn cứ vào Giấy đề nghị Kho bạc thanh toán tạm ứng đã được Kho bạc chấp nhận, ghi:
+Nợ TK 815/Có TK 137
+       Có TK 00811 – Ghi âm
+       Có TK 00812 – Ghi dương
+- Đối với công trình XDCB nếu hoàn thành trong thời gian chỉnh lý, được cấp có thẩm quyền cho phép và quyết toán vào chi ngân sách năm trước
+Nợ TK 815
+Có TK 137
+
+(*) Đồng thời
+Nợ TK 211
+Có TK 466
+
+(*) Đồng thời quyết toán vốn đầu tư
+Nợ TK 441
+Có TK 2412
+4. Chi chuyển nguồn
+Hết thời gian chỉnh lý quyết toán (31/01), xác định những khoản chi có trong dự toán năm trước được giao mà xã chưa thực hiện được và được chuyển nguồn sang năm sau theo quy định của Luật Ngân sách, xã lập lệnh chi tiền mang đến Kho bạc để chuyển nguồn chi sang năm sau. Căn cứ vào chứng từ đã được Kho bạc xác nhận, kế toán ghi chi ngân sách năm trước và thu ngân sách năm sau số chi chuyển nguồn:
+Nợ TK 815/Có TK 714
+Nợ TK 0081 – Ghi âm (dự toán được chuyển nguồn nếu có)
+Nợ TK 0082 – Ghi dương (dự toán được chuyển nguồn nếu có)
+5. Quyết toán được duyệt
+- Khi báo cáo được cấp có thẩm quyền phê duyệt quyết toán, ghi:
+Nợ TK 0081 – Ghi âm
+Có TK 0081 – Ghi âm
+ 
+PHỤ LỤC SỐ 02
+HỆ THỐNG TÀI KHOẢN KẾ TOÁN
+(Ban hành kèm theo Thông tư số 70/2019/TT-BTC ngày 03/10/2019 của Bộ Tài chính)
+I. DANH MỤC HỆ THỐNG TÀI KHOẢN KẾ TOÁN NGÂN SÁCH VÀ TÀI CHÍNH XÃ
+Số TT	Số hiệu TK cấp 1	Số hiệu TK cấp 2	Tên tài khoản	Phạm vi áp dụng
+				Bắt buộc	Hướng dẫn
+					
+A			CÁC TÀI KHOẢN TRONG BẢNG		
+			LOẠI 1 - TIỀN VÀ VẬT TƯ		
+					
+1	111		Tiền mặt	x	
+					
+2	112		Tiền gửi Ngân hàng, Kho bạc	x	
+		1121	Tiền ngân sách tại Kho bạc		
+		1122	Tiền gửi Ngân hàng		
+		1128	Tiền gửi khác		
+3	137		Chi ngân sách xã chưa hạch toán vào ngân sách Nhà nước	x	
+					
+4	152		Vật liệu		x
+			LOẠI 2 - TÀI SẢN CỐ ĐỊNH		
+5	211		Tài sản cố định		x
+					
+6	214		Hao mòn tài sản cố định		x
+					
+7	241		Xây dựng cơ bản dở dang		x
+		2411	Mua sắm tài sản cố định		
+		2412	Xây dựng cơ bản dở dang		
+		2413	Nâng cấp tài sản cố định		
+					
+			LOẠI 3 - THANH TOÁN		
+8	311		Các khoản phải thu	x	
+					
+9	331		Các khoản phải trả	x	
+					
+10	332		Các khoản phải nộp theo lương	x	
+		3321	Bảo hiểm xã hội		
+		3322	Bảo hiểm y tế		
+		3323	Kinh phí công đoàn		
+		3324	Bảo hiểm thất nghiệp		
+					
+11	333		Các khoản phải nộp nhà nước	x	
+					
+12	334		Phải trả cán bộ, công chức	x	
+					
+13	336		Các khoản thu hộ, chi hộ	x	
+		3361	Các khoản thu hộ		
+		3362	Các khoản chi hộ		
+					
+14	337		Thu ngân sách xã chưa hạch toán vào ngân sách Nhà nước	x	
+					
+			LOẠI 4 - NGUỒN KINH PHÍ VÀ CÁC QUỸ TÀI CHÍNH NGOÀI NGÂN SÁCH		
+					
+15	431		Các quỹ tài chính ngoài ngân sách	x	
+					
+16	441		Nguồn kinh phí đầu tư XDCB		x
+		4411	Nguồn ngân sách xã		
+		4412	Nguồn tài trợ		
+		4418	Nguồn khác		
+					
+17	466		Nguồn kinh phí đã hình thành TSCĐ		x
+					
+18	474		Kết dư ngân sách xã	x	
+					
+			LOẠI 7 - THU NGÂN SÁCH XÃ VÀ THU SỰ NGHIỆP CỦA XÃ		
+					
+19	711		Thu sự nghiệp		x
+					
+20	714		Thu ngân sách xã hạch toán vào ngân sách Nhà nước	x	
+					
+21	715		Thu ngân sách xã trong thời gian chỉnh lý	x	
+					
+			LOẠI 8 - CHI NGÂN SÁCH XÃ VÀ CHI SỰ NGHIỆP CỦA XÃ		
+					
+22	811		Chi sự nghiệp		x
+					
+23	814		Chi ngân sách xã hạch toán vào ngân sách Nhà nước	x	
+					
+24	815		Chi ngân sách xã trong thời gian chỉnh lý	x	
+					
+			LOẠI 9 - CHÊNH LỆCH THU, CHI NGÂN SÁCH XÃ		
+					
+25	914		Chênh lệch thu, chi ngân sách xã	x	
+					
+26	915		Chênh lệch thu, chi ngân sách xã trong thời gian chỉnh lý	x	
+					
+B			CÁC TÀI KHOẢN NGOÀI BẢNG		
+1	005		Dụng cụ lâu bền đang sử dụng		x
+2	008		Dự toán chi ngân sách	x	
+		0081	Năm trước		
+		00811	Tạm ứng		
+		00812	Thực chi		
+		0082	Năm nay		
+		00821	Tạm ứng		
+		00822	Thực chi		
+
