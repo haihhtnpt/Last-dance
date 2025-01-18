@@ -1,0 +1,49 @@
+Chi ngân sách xã chưa hạch toán vào ngân sách nhà nước
+1. Nguyên tắc kế toán
+1.1 Chi ngân sách xã chưa hạch toán vào ngân sách nhà nước là những khoản chi ngân sách 
+xã đã chi taij xã gồm các khoản chi thường xuyên, chi mua sắm tài sản cố định bằng tiền mặtk 
+và chi đầu tư xây dựng cơ bản chư làm thủ tục ghi chi ngân sách tại kho bạc
+1.2 Các khoản chi phản ánh vòa tìa khoản này gồm các khoản được chi từ số tiền
+rút tạm ứng của kho bạc; các khoản chi bằng hiện vật ngày công.. và những khoản chi bằng
+số tiền thu ngân sách được phép giữu lại để chi ngân sách tại xã( những xã được phép 
+tạm chi)
+trước hết những khoản chi trên được hạch toán vào bên nợ tài khoản 137, sau đó làm thủ tục 
+thanh toán với kho bạc để chuyển vào chi hạch toán và ghi nợ tài khoản 814
+1.3. Các chứng từ hạch toán vào tìa khoản này là : Phiếu chi, phiếu xuất kho, các chứng
+từ chi hoặc háo đơn dịch vụ còn nợ chưa hạch toán, hóa đơn mua hàng của dịch vụ
+giấy thanh toán tạm ứng, giấy đề nghẹ thanh toán kèm theo các chứng từ chi
+hội nghị của các ban ngành đoàn thể ở xã đã được chủ tài khoản duyệt chi nhưng xã
+chư có tiền thanh toán
+khi làm thủ tục thanh toán tại kho bạc, căn cứ vào các chứng từ chi kế toán lập
+giấy đề nghị kho bạc thanh toán tạm ứng hoặc bảng kê ghi thu ghi chi nsx theo mục lục ngân sách
+nhà nước.
+1.4 Hạch toán chi tiết tài khoản 137 được thực hiện trên sổ chi ngân sách xã ( phần 
+chi chưa hạch toán vào nsnn) được chia theo dõi chi tiết: chi thường xuyên và
+chi đầu tư
+1,5 Đố ivới các công trình xây dựng cơ bản khi xử lý số liệu để kết chuyển từ tài
+khoản 137 sang tài khoản 814, căn cứ vào dự toán công trình (kế hoạch ngân sách của xã
+bố trí cho công trình trong dự toán ngân sách năm) và số chi thực tế của công trình 
+để kết chuyển số liệu theo các trường hợp sau:
+- nếu chi phí thực tế của hạng mục công trình hoặc công trình dc phê duyệt
+quyết toán nhỏ hơn hoặc bắng số kế hoạch ngân sách bố trí cho hạng mục công trình
+hoặc công trình trong năm ngân sách thì kết chuyển từ 137 sang 814 theo chi phí thực
+tế được duyệt
+-nếu chi phí thực tế của hạng mục hoặc công trình dc phê duyệt quyết toán > hơn
+số kế hoạch ngân sách bố trí cho công trình hoặc hạng mục công trình trong năm ngân sách
+thì kết chuyển bằng hoặc nhỏ hơn số ngân sách đã bố trí cho công trình.
+trường hợp này số kết chuyển từ tài khoản 137 sang 814 phải có đủ chứng từ hợp pháp,
+hợp lệ chứng minh, phần chi phí vượt dự toán được để dư trên tài khoản 137 phải được
+bổ sung thêm vòa ngân scsh năm sau hoặc đc chuyển sang dự toán chi ngân sách năm sau để thanh toán
+
+2. Kết cấu và nội dung phản ánh của tài khoản 137
+Bên nợ
+-Các khoản chi ngân sách thường xuyên, chi mua sắm tài sản cố định bằng tiền mặt 
+và chi cho đầu tư xdcb nhưng chưa ghi vào tài khoản chi ngân sách xã hạch toán
+vào ngân sách nhà nước.
+Bên có
+- Các khoản chi ngân sách thường xuyên đã làm thủ tục ghi chi ngân sách 
+- Các khoản chi mua sắm tài sản cố định bằng tiền mặt và chi đầu tư xđcb chuyển thành
+số chi ngân sách xã hạch toán vào ngân sách nhà nước trong năm
+Số dư bên nợ:
+các khoản đã hci ngân sách xã nhưng chưa làm thru tục ghi chi ngân sách xã tại kho bạc
+3. Phương pháp hạch toán kế toán 1 số hoạt động chủ yếu
