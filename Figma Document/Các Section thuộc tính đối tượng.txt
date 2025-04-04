@@ -1,0 +1,30 @@
+- Không nên crop ảnh
+Linear Gradient (Chuyển màu tuyến tính)
+
+Màu chuyển đổi theo một đường thẳng (ngang, dọc hoặc chéo).
+
+Ví dụ: Chuyển từ xanh sang đỏ theo hướng từ trái sang phải.
+
+Angular Gradient (Chuyển màu góc cạnh - Còn gọi là Conic Gradient)
+
+Màu chuyển đổi theo dạng hình tròn, nhưng xoay quanh một điểm trung tâm.
+
+Ví dụ: Một vòng tròn chuyển từ đỏ sang xanh theo chiều kim đồng hồ.
+
+Radial Gradient (Chuyển màu hướng tâm)
+
+Màu lan tỏa từ một điểm trung tâm ra ngoài theo hình tròn.
+
+Ví dụ: Một vòng tròn có tâm màu trắng và viền ngoài màu xanh.
+
+Diamond Gradient (Chuyển màu hình kim cương)
+
+Màu chuyển đổi theo dạng hình thoi (diamond), tâm là màu sáng và mờ dần ra ngoài theo dạng hình kim cương.
+
+Ví dụ: Từ một điểm giữa màn hình, màu lan tỏa ra ngoài thành hình vuông nhưng có các góc nhọn như kim cương.
+
+-- stroke: viền bao ngoài của hình ảnh
+
+- Drop shadow: làm cho cảm giác vật nổi lên phía trên
+- layer blur: làm cho cảm giác mờ đi
+-back ground: làm cho cảm giác ảnh bên dưới bị mờ đi
